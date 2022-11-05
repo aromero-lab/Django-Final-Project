@@ -1,9 +1,9 @@
-# Django-Final-Project
+# Alvaro Romero Django Final Project
 
 ## Features Table
 | User Feature | Description | Django Feature |
 | ------------ | ----------- | -------------- |
-| Feature      | Description | Django Feature |
+| Learning Content | Description | Django Feature |
 
 ## Django Table
 | Django Feature | Feature Support |
