@@ -3,7 +3,7 @@
 ## Features Table
 | User Feature | Description | Django Feature |
 | ------------ | ----------- | -------------- |
-| Learning Content | Content on financial literacy provided behind a paywall | ECommerce, Account Management, Template, Bootstrap |
+| Learning Content | Content on financial literacy provided behind a paywall | ECommerce, Account Management, Template, Bootstrap, Files and Images |
 | Financial Services | Professional Financial Services available to subscribers for additional fee | ECommerce, Account Management, Template |
 
 ## Django Table
@@ -13,9 +13,10 @@
 | Account Management | Learning Content, Financial Services |
 | Template | Learning Content, Financial Services |
 | Bootstrap | Learning Content |
+| Files and Images | Learning Content |
 
 ## Domain Name
 frankncents.com - My nickname is Frankie, to clarify domain name.
 
 ## Deployment Strategy
-Heroku vs. VPS
+VPS for deployment.
