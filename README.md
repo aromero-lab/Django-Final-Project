@@ -15,7 +15,7 @@
 | Bootstrap | Learning Content |
 
 ## Domain Name
-frankncents.com
+frankncents.com - My nickname is Frankie, to clarify domain name.
 
 ## Deployment Strategy
 Heroku vs. VPS
