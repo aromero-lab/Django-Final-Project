@@ -4,7 +4,7 @@
 | User Feature | Description | Django Feature |
 | ------------ | ----------- | -------------- |
 | Learning Content | Content on financial literacy provided behind a paywall | ECommerce, Account Management, Template, Bootstrap |
-| Financial Services | ECommerce, Account Management, Template |
+| Financial Services | Professional Financial Services available to subscribers for additional fee | ECommerce, Account Management, Template |
 
 ## Django Table
 | Django Feature | Feature Support |
