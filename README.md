@@ -1,4 +1,4 @@
 # Django-Final-Project
-| Feature | Description |
-| ------- | ----------- |
-| Feature | Description |
+| User Feature | Description | Django Feature |
+| ------------ | ----------- | -------------- |
+| Feature      | Description | Django Feature |
